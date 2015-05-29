@@ -1,0 +1,11 @@
+{
+  "name": "censority",
+  "version": "0.0.1",
+  "author" : "Ravi Gavarasana",
+  "description" : "Censors words out of text",
+  "main" : "censortext",
+  "dependencies": {},
+  "engines": {
+    "node:":"*"
+  }
+}
